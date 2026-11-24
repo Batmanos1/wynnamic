@@ -1,4 +1,5 @@
 # [WynNamic](https://modrinth.com/modpack/wynnamic)
+[**DOWNLOAD OFFICIAL VERSIONS HERE**](https://modrinth.com/modpack/wynnamic/versions)
 ## THIS IS A CLIENT SIDE MODPACK FOR WYNNCRAFT
 
 Built on a low-end laptop to prove Wynncraft can run smoothly and still look stunning. Visuals here are optimized, not sacrificed, alongside an immersive third-person setup, streamlined UI, and ready-to-go keybinds.
