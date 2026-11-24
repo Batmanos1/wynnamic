@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>[WynNamic](https://modrinth.com/modpack/wynnamic) - Source, Wiki & Testing Hub</h1>
+<h1><a href="https://modrinth.com/wynnamic">WynNamic</a> - Source, Wiki & Testing Hub</h1>
 
 <p><b>Client-side performance & visual overhaul modpack for Wynncraft.</b></p>
 
