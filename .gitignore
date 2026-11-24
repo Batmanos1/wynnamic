@@ -1,0 +1,13 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Prevent accidental binary or runtime files
+*.jar
+logs/
+crash-reports/
+saves/
+usercache.json
+usernamecache.json

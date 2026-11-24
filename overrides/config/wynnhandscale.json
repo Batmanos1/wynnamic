@@ -1,0 +1,175 @@
+{
+  "enabled": true,
+  "affectMainHand": true,
+  "affectOffHand": false,
+  "defaultProfile": {
+    "hotbarSlots": [
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "transform": {
+      "positionEnabled": true,
+      "positionX": 0.0,
+      "positionY": 0.0,
+      "positionZ": 0.0,
+      "rotationEnabled": false,
+      "rotationX": 0.0,
+      "rotationY": 0.0,
+      "rotationZ": 0.0,
+      "scaleEnabled": true,
+      "uniformScale": 1.0,
+      "scaleX": 1.0,
+      "scaleY": 1.0,
+      "scaleZ": 1.0
+    }
+  },
+  "classProfiles": {
+    "MAGE": {
+      "hotbarSlots": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "transform": {
+        "positionEnabled": true,
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "positionZ": 0.0,
+        "rotationEnabled": false,
+        "rotationX": 0.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleEnabled": true,
+        "uniformScale": 1.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      }
+    },
+    "ARCHER": {
+      "hotbarSlots": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "transform": {
+        "positionEnabled": true,
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "positionZ": 0.0,
+        "rotationEnabled": false,
+        "rotationX": 0.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleEnabled": true,
+        "uniformScale": 1.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      }
+    },
+    "WARRIOR": {
+      "hotbarSlots": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "transform": {
+        "positionEnabled": true,
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "positionZ": 0.0,
+        "rotationEnabled": false,
+        "rotationX": 0.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleEnabled": true,
+        "uniformScale": 1.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      }
+    },
+    "ASSASSIN": {
+      "hotbarSlots": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "transform": {
+        "positionEnabled": true,
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "positionZ": 0.0,
+        "rotationEnabled": false,
+        "rotationX": 0.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleEnabled": true,
+        "uniformScale": 1.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      }
+    },
+    "SHAMAN": {
+      "hotbarSlots": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "transform": {
+        "positionEnabled": true,
+        "positionX": 0.0,
+        "positionY": 0.0,
+        "positionZ": 0.0,
+        "rotationEnabled": false,
+        "rotationX": 0.0,
+        "rotationY": 0.0,
+        "rotationZ": 0.0,
+        "scaleEnabled": true,
+        "uniformScale": 1.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+      }
+    }
+  }
+}
