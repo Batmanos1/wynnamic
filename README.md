@@ -1,88 +1,104 @@
-# [WynNamic](https://modrinth.com/modpack/wynnamic)
-[**DOWNLOAD OFFICIAL VERSIONS HERE**](https://modrinth.com/modpack/wynnamic/versions)
-## THIS IS A CLIENT SIDE MODPACK FOR WYNNCRAFT
+<div align="center">
 
-Built on a low-end laptop to prove Wynncraft can run smoothly and still look stunning. Visuals here are optimized, not sacrificed, alongside an immersive third-person setup, streamlined UI, and ready-to-go keybinds.
+<h1>WynNamic — Source, Wiki & Testing Hub</h1>
 
-> Anyone on stronger hardware, feel free to tweak your video settings based on your system, there's also a few shader options to choose from.
+<p><b>Client-side performance & visual overhaul modpack for Wynncraft.</b></p>
 
-### Toggle 3rd person with **Y** (or change it in control settings)
+<p>
+  <a href="https://modrinth.com/modpack/wynnamic"><img src="https://img.shields.io/badge/Modrinth-Project_Page-2b3137?style=flat-square" alt="Modrinth" /></a>
+  <a href="https://modrinth.com/modpack/wynnamic/versions"><img src="https://img.shields.io/badge/Modrinth-Official_Releases-2b3137?style=flat-square" alt="Downloads" /></a>
+  <a href="https://www.reddit.com/r/WynNamic/s/TWqVeMdYdn"><img src="https://img.shields.io/badge/Reddit-r%2FWynNamic-2b3137?style=flat-square" alt="Reddit" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-2b3137?style=flat-square" alt="License" /></a>
+</p>
 
-# Community
-Report issues/bugs, suggest features or post anything about the modpack on our reddit [r/WynNamic](https://www.reddit.com/r/WynNamic/s/TWqVeMdYdn)
+</div>
 
-# FEATURES
+---
 
-## Visuals
-- **Custom biome fog and mist** using **ATMOSPHERICS** mod.
-- **High render distance** using **Voxy** and **wynnLODgrabber**.
-- **Distant LODs have visual effects** such as smoke and are managed for outside of main map areas using **WynnVista** mod.
+### ⟡ About This Repository
 
-## Sounds
-- **Voice acting** using **Voices of Wynn** mod.
-- **Ambient Sounds** using **AmbientSounds**.
-- **Sound Physics** with **Sound Physics Remastered**.
+This repository serves as the **config archive, testing ground, and documentation wiki** for **WynNamic**. 
 
-## Optimization
-- **Connectivity** : uses **Krypton** mod for prioritizing packets.
-- **Entities** : **Entity culling** and other widely used mod for better entity managment.
-- **Sounds** : uses **Sound Culling** - filters out excessive sound effects to give your eardrums a break
-- **And much much more!**
+Built and tuned on modest laptop hardware to prove Wynncraft can run smoothly without sacrificing atmosphere, the pack combines custom UI layouts, ready-to-use keybinds, and an offset third-person camera preset.
 
-## Utilities 
-**READ CONTROLLS ON NEXT CATEGORY**
-### Wynntils
-- **Minimap**, **waypoints** and **general ui managment** (configs have been edited for a cleaner look).
-- **Spell casting** using keys.
-- **Autoattack** while holding attack button.
-- Various useful **Overlays** (might take too much of the screen in first person, third person use is recommended, check controls on category below or in-game) 
-### Wynnmounts + Wynntoolz
-- **Mount** training path analisis and tips.
-### Wynnmod
-- **Ability tree loadouts and loadout sharing**
-- **pings in raids and more to quick find/share locations** to other wynnmod users.
-- **Chat Emojis**, use /emojis in-game for emoji lists
-### Shoulder surfing + Spatial GUI
-- **Third person** view and inventory  (slight offset to see where you are aiming).
-### Wynn Bubbles
-- **Player chat messages** now show on their heads! (player ghosts too)
+> **Hardware Note:** Default video settings are tuned for low-end systems. If you are running stronger hardware, feel free to raise render distances or switch between the bundled shader profiles.
 
+---
 
+### ⟡ Quick Start & Community
 
-# Controls:
-_Change controls as you wish_
-## Main: (important)
-- Inventory: **Z**
-- Sprint: **Mouse side button** (_changing is recommended if your device does not include this_)
-- Chat: **/**
-- Party interface/editor: **O**
-### Map
-- Main map: **Z**
-- Guild territory map: **J**
-- Ping Location: **[**
-### Camera
-- Zoom in cammera: hold **C**, adjust with scroll
-### Custom 3rd person view
-- Press **Y** to toggle
+- **Official Builds:** Download ready-to-import `.mrpack` files from **[Modrinth Releases](https://modrinth.com/modpack/wynnamic/versions)** (or the **Releases** tab on this repository).
+- **Bug Reports & Feedback:** Post issues, test feedback, or feature suggestions on **[r/WynNamic](https://www.reddit.com/r/WynNamic/s/TWqVeMdYdn)** or open a **GitHub Issue** here.
+- **First Launch Tip:** Press **`Y`** in-game to toggle the custom third-person camera (recommended for full overlay visibility).
 
+---
 
-## Combat: (usefull)
-- Spells: **Q**, **E**, **R**, **T**
-> **If** you **change** spell keybinds, make sure to **disable** the **custom overlay** for them follow steps below:
-1. Press **esc** in-game
-2. Select **wynntils menu** 
-3. Select **Overlay Managment**
-4. Go to **Custom** tab
-5. Find **"Spell Keybind Info"**
-6. Click **Enabled** -> **Disabled**
-- Autoattack enabled (hold attack button).
+### ⟡ Pack Wiki — Included Features
 
-## Mounts:
-- Auto ride: **ctrl**
-- Analise in feeder: **/** (from numberpad, _changing is recommended if your device does not include this_).
+#### Visuals & Atmosphere
+- **Custom Biome Fog & Mist** — Powered by **Atmospherics**.
+- **Extended Render Distance** — Distant terrain caching via **Voxy** and **wynnLODgrabber**.
+- **Distant LOD Effects** — Smoke and off-map LOD management handled by **WynnVista**.
 
-## Visuals:
-- Toggle shaders: **;**
+#### Audio & Immersion
+- **NPC Voice Acting** — Full quest voiceover support via **Voices of Wynn**.
+- **Dynamic Environment Audio** — Layered environmental soundscapes with **AmbientSounds**.
+- **Acoustic Simulation** — Cave reverb and directional sound occlusion via **Sound Physics Remastered**.
 
-## Other: (usefull)
-- View Lootrun/Raid Lootpools: **N**
+#### Performance & Optimization
+- **Network Packet Prioritization** — Reduced latency spikes using **Krypton**.
+- **Entity & Sound Culling** — Filters off-screen entities (**Entity Culling**) and excessive overlapping audio (**Sound Culling**).
+
+#### Gameplay Utilities
+- **Wynntils** — Custom-tuned minimap, waypoints, streamlined UI, keybind spell casting, hold-to-autoattack, and custom screen overlays *(best viewed in third person)*.
+- **Wynnmounts + Wynntoolz** — Mount training path analysis and stat tips.
+- **Wynnmod** — Ability tree loadouts and loadout sharing, raid/world location pings for party members, and in-game chat emojis (`/emojis`).
+- **Shoulder Surfing + Spatial GUI** — Offset third-person camera for clear aiming alongside spatial inventory rendering.
+- **Wynn Bubbles** — Floating overhead chat bubbles for nearby players and player ghosts.
+
+---
+
+### ⟡ Controls Reference
+
+*All keybinds can be customized in Minecraft's Controls menu.*
+
+#### General & Navigation
+| Action | Default Key | Notes |
+| :--- | :--- | :--- |
+| **Inventory** | `Z` | — |
+| **Sprint** | `Mouse Side Button` | Rebind recommended if your mouse lacks side buttons |
+| **Open Chat** | `/` | — |
+| **Party Interface / Editor** | `O` | — |
+| **Main Map** | `Z` | — |
+| **Guild Territory Map** | `J` | — |
+| **Ping Location** | `[` | Shares ping with other Wynnmod users |
+
+#### Camera & Visuals
+| Action | Default Key | Notes |
+| :--- | :--- | :--- |
+| **Toggle 3rd Person View** | `Y` | Switches between 1st person and offset 3rd person |
+| **Camera Zoom** | Hold `C` + `Scroll` | Adjust zoom level while holding `C` |
+| **Toggle Shaders** | `;` | Quickly toggle shaders on/off for performance |
+
+#### Combat, Mounts & Misc
+| Action | Default Key | Notes |
+| :--- | :--- | :--- |
+| **Cast Spells** | `Q`, `E`, `R`, `T` | See overlay note below if rebinding |
+| **Auto-Attack** | Hold `Attack` | Enabled automatically via Wynntils |
+| **Mount Auto-Ride** | `Ctrl` | — |
+| **Analyze Mount in Feeder** | `Numpad /` | Rebind recommended on compact/TKL keyboards |
+| **View Lootrun / Raid Lootpools** | `N` | — |
+
+> **Rebinding Spell Keys:** If you change `Q`, `E`, `R`, or `T`, disable the custom keybind overlay so it doesn't show outdated keys:
+> 1. Press **`Esc`** in-game → **Wynntils Menu** → **Overlay Management**
+> 2. Open the **Custom** tab and locate **`Spell Keybind Info`**
+> 3. Switch **`Enabled`** → **`Disabled`**
+
+---
+
+### ⟡ Repository Structure & License
+
+```text
+├── overrides/            # Custom FancyMenu layouts, UI assets & tuned mod configs
+├── modrinth.index.json   # Modrinth pack manifest & dependency hashes
+└── LICENSE               # CC BY-NC-ND 4.0 terms
