@@ -1,0 +1,14 @@
+{
+  "lbTypeFavoriteList": [],
+  "favoriteFeatures": [],
+  "partyPing_Feature": true,
+  "raidSession_autoReset": "GAMBIT",
+  "raidSession_inactiveThreshold": "PT4H",
+  "raidSession_dailyResetTime": "00:00",
+  "gatheringSession_autoReset": "MINECRAFT_SESSION",
+  "gatheringSession_inactiveThreshold": "PT4H",
+  "gatheringSession_dailyResetTime": "00:00",
+  "raidStreak_Feature": true,
+  "wynncraftApi_invalidWarn": true,
+  "version": "2.4.3"
+}

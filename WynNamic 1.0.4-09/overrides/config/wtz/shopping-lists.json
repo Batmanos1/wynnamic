@@ -1,0 +1,10 @@
+{
+  "activeListId": "1",
+  "nextId": 2,
+  "lists": {
+    "1": {
+      "name": "Default",
+      "items": []
+    }
+  }
+}

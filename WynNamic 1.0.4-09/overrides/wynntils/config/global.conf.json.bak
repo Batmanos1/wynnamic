@@ -1,0 +1,2013 @@
+{
+  "abilityCooldownsOverlayFeature.abilityCooldownsOverlay.position": {
+    "verticalOffset": -8.462656,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "topMiddle"
+  },
+  "abilityCooldownsOverlayFeature.abilityCooldownsOverlay.renderOrder": 0,
+  "annihilationSunOverlayFeature.annihilationSunOverlay1.renderOrder": 0,
+  "archerBeastTrackerOverlayFeature.archerBeastTrackerOverlay1.renderOrder": 1,
+  "arrowShieldTrackerOverlayFeature.arrowShieldTrackerOverlay1.renderOrder": 2,
+  "autoAttackFeature.userEnabled": true,
+  "bombBellOverlayFeature.bombBellOverlay.fontScale": 0.8,
+  "bombBellOverlayFeature.bombBellOverlay.horizontalAlignmentOverride": "center",
+  "bombBellOverlayFeature.bombBellOverlay.position": {
+    "verticalOffset": -17.5,
+    "horizontalOffset": 5.0,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "middleLeft"
+  },
+  "bombBellOverlayFeature.bombBellOverlay.renderElement": "actionBar",
+  "bombBellOverlayFeature.bombBellOverlay.renderOrder": 7,
+  "bombBellOverlayFeature.bombBellOverlay.size": {
+    "width": 133.33339,
+    "height": 110.0
+  },
+  "bonusTotemTimerOverlayFeature.gatheringTotemTimerOverlay1.renderOrder": 3,
+  "bonusTotemTimerOverlayFeature.mobTotemTimerOverlay1.renderOrder": -1,
+  "bonusTotemTimerOverlayFeature.mobTotemTimerOverlay1.userEnabled": false,
+  "characterSelectionUtilitiesFeature.userEnabled": false,
+  "chatTabsFeature.chatTabs": [
+    {
+      "name": "All",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": null,
+      "customRegexString": null
+    },
+    {
+      "name": "Global",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "global"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Local",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "local"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Guild",
+      "consuming": false,
+      "autoCommand": "/g  ",
+      "filteredTypes": [
+        "guild"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Party",
+      "consuming": false,
+      "autoCommand": "/p  ",
+      "filteredTypes": [
+        "party"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Private",
+      "consuming": false,
+      "autoCommand": "/r  ",
+      "filteredTypes": [
+        "private"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Shout",
+      "consuming": false,
+      "autoCommand": null,
+      "filteredTypes": [
+        "shout"
+      ],
+      "customRegexString": null
+    },
+    {
+      "name": "Party+Game",
+      "consuming": false,
+      "autoCommand": "/p",
+      "filteredTypes": [
+        "shout",
+        "info",
+        "clientside",
+        "pets",
+        "gameMessage",
+        "party"
+      ],
+      "customRegexString": null
+    }
+  ],
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.position": {
+    "verticalOffset": -5.499939,
+    "horizontalOffset": -16.2499,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomLeft"
+  },
+  "combatExperienceOverlayFeature.combatExperienceOverlay1.size": {
+    "width": 170.5002,
+    "height": 20.0
+  },
+  "customPlayerListOverlayFeature.customPlayerListOverlay.renderOrder": 1,
+  "gameBarsOverlayFeature.commanderBarOverlay.position": {
+    "verticalOffset": 16.750015,
+    "horizontalOffset": 0.5,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameBarsOverlayFeature.commanderBarOverlay.size": {
+    "width": 81.0,
+    "height": 66.50002
+  },
+  "gameBarsOverlayFeature.commanderBarOverlay.verticalAlignmentOverride": "top",
+  "gameBarsOverlayFeature.ophanimBarOverlay.position": {
+    "verticalOffset": -6.0,
+    "horizontalOffset": 0.5,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "gameNotificationOverlayFeature.gameNotificationOverlay.renderOrder": 4,
+  "gammabrightFeature.gammabrightEnabled": false,
+  "guardianAngelsTrackerOverlayFeature.guardianAngelsTrackerOverlay1.renderOrder": 5,
+  "heldItemCooldownOverlayFeature.heldItemCooldownOverlay.renderOrder": -1,
+  "itemLockFeature.classSlotLockMap": {
+    "9176ae96": [
+      0,
+      9,
+      10,
+      11,
+      12,
+      14,
+      36,
+      37,
+      38,
+      39
+    ],
+    "d790a19e": [
+      13
+    ],
+    "f0bf0fb9": [
+      9,
+      10,
+      11,
+      12,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.position": {
+    "verticalOffset": -29.753372,
+    "horizontalOffset": 8.0,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "left",
+    "anchorSection": "bottomLeft"
+  },
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.renderOrder": -1,
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.size": {
+    "width": 120.99999,
+    "height": 129.50674
+  },
+  "lootrunOverlaysFeature.lootrunBeaconCountOverlay1.userEnabled": false,
+  "lootrunOverlaysFeature.lootrunMissionsOverlay1.renderOrder": -1,
+  "lootrunOverlaysFeature.lootrunMissionsOverlay1.userEnabled": false,
+  "lootrunOverlaysFeature.lootrunTaskNameOverlay1.renderOrder": -1,
+  "lootrunOverlaysFeature.lootrunTaskNameOverlay1.userEnabled": false,
+  "lootrunOverlaysFeature.lootrunTrialsOverlay1.renderOrder": -1,
+  "lootrunOverlaysFeature.lootrunTrialsOverlay1.userEnabled": false,
+  "mageDistortionOverlayFeature.mageDistortionOverlay.renderOrder": 6,
+  "mainMapFeature.customPois": [
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 139,
+        "y": 114,
+        "z": -1698
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -346,
+        "y": 41,
+        "z": -1524
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -533,
+        "y": 29,
+        "z": -1573
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1644,
+        "y": 23,
+        "z": -5152
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -588,
+        "y": 55,
+        "z": -1561
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -788,
+        "y": 10,
+        "z": -643
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1014,
+        "y": 112,
+        "z": -528
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -631,
+        "y": 42,
+        "z": -1912
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -575,
+        "y": 36,
+        "z": -1706
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -479,
+        "y": 48,
+        "z": -1336
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 682,
+        "y": 30,
+        "z": -1625
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -534,
+        "y": 4,
+        "z": -4663
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 711,
+        "y": 47,
+        "z": -4951
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 231,
+        "y": 39,
+        "z": -4840
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 664,
+        "y": 35,
+        "z": -4799
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 777,
+        "y": 16,
+        "z": -4772
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 550,
+        "y": 26,
+        "z": -4559
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 236,
+        "y": 7,
+        "z": -4621
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 234,
+        "y": 10,
+        "z": -4726
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 290,
+        "y": 50,
+        "z": -4704
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -260,
+        "y": 58,
+        "z": -1520
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1155,
+        "y": 124,
+        "z": -252
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1158,
+        "y": 124,
+        "z": -253
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1152,
+        "y": 124,
+        "z": -253
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 782,
+        "y": 57,
+        "z": -460
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 921,
+        "y": 33,
+        "z": -413
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 823,
+        "y": 68,
+        "z": -718
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 747,
+        "y": 63,
+        "z": -746
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1095,
+        "y": 60,
+        "z": -697
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 839,
+        "y": 42,
+        "z": -754
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 718,
+        "y": 143,
+        "z": -963
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 724,
+        "y": 143,
+        "z": -963
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 959,
+        "y": 97,
+        "z": -1149
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1279,
+        "y": 76,
+        "z": -1136
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1324,
+        "y": 72,
+        "z": -1116
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1507,
+        "y": 55,
+        "z": -1078
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1422,
+        "y": 120,
+        "z": -996
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1192,
+        "y": 26,
+        "z": -5355
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1132,
+        "y": 13,
+        "z": -5356
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1093,
+        "y": 4,
+        "z": -5372
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1053,
+        "y": 6,
+        "z": -5382
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 998,
+        "y": 7,
+        "z": -5376
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1247,
+        "y": 63,
+        "z": -5449
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1454,
+        "y": 125,
+        "z": -5476
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1596,
+        "y": 110,
+        "z": -4961
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1422,
+        "y": 5,
+        "z": -4944
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1535,
+        "y": 56,
+        "z": -5154
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1688,
+        "y": 41,
+        "z": -5492
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1451,
+        "y": 56,
+        "z": -5604
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -2093,
+        "y": 14,
+        "z": -1536
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -2110,
+        "y": 17,
+        "z": -1500
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -2138,
+        "y": 13,
+        "z": -1557
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1874,
+        "y": 8,
+        "z": -1024
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1829,
+        "y": 7,
+        "z": -981
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1856,
+        "y": 4,
+        "z": -912
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1843,
+        "y": 6,
+        "z": -995
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1014,
+        "y": 76,
+        "z": -4998
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1015,
+        "y": 64,
+        "z": -5060
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1383,
+        "y": 103,
+        "z": -4715
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1278,
+        "y": 128,
+        "z": -4618
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1076,
+        "y": 79,
+        "z": -4658
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1099,
+        "y": 76,
+        "z": -4692
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 926,
+        "y": 130,
+        "z": -4777
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 931,
+        "y": 178,
+        "z": -4776
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 743,
+        "y": 119,
+        "z": -4765
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 755,
+        "y": 186,
+        "z": -4762
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 739,
+        "y": 55,
+        "z": -4930
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 894,
+        "y": 102,
+        "z": -4352
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 892,
+        "y": 128,
+        "z": -4396
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1678,
+        "y": 4,
+        "z": -491
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1703,
+        "y": 4,
+        "z": -473
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1751,
+        "y": 4,
+        "z": -531
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -2252,
+        "y": 6,
+        "z": -1374
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1904,
+        "y": 32,
+        "z": -1194
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1913,
+        "y": 28,
+        "z": -1192
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1915,
+        "y": 66,
+        "z": -1180
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -2102,
+        "y": 88,
+        "z": -802
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -2106,
+        "y": 118,
+        "z": -796
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -2281,
+        "y": 34,
+        "z": -737
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -2262,
+        "y": 40,
+        "z": -755
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -2247,
+        "y": 35,
+        "z": -763
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1681,
+        "y": 23,
+        "z": -481
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1688,
+        "y": 18,
+        "z": -524
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1837,
+        "y": 32,
+        "z": -838
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1826,
+        "y": 16,
+        "z": -839
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1861,
+        "y": 4,
+        "z": -796
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1515,
+        "y": 149,
+        "z": -554
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1552,
+        "y": 153,
+        "z": -522
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1544,
+        "y": 167,
+        "z": -549
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 208,
+        "y": 59,
+        "z": -1571
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 324,
+        "y": 51,
+        "z": -1724
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 310,
+        "y": 39,
+        "z": -1759
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1239,
+        "y": 17,
+        "z": -627
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1219,
+        "y": 16,
+        "z": -667
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1172,
+        "y": 16,
+        "z": -664
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1202,
+        "y": 16,
+        "z": -602
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1294,
+        "y": 57,
+        "z": -938
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1137,
+        "y": 55,
+        "z": -1026
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1166,
+        "y": 75,
+        "z": -1039
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1013,
+        "y": 89,
+        "z": -1442
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1119,
+        "y": 91,
+        "z": -1443
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1147,
+        "y": 110,
+        "z": -1479
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1335,
+        "y": 63,
+        "z": -1318
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1365,
+        "y": 63,
+        "z": -1281
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1342,
+        "y": 61,
+        "z": -1249
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1299,
+        "y": 88,
+        "z": -1023
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1314,
+        "y": 91,
+        "z": -1017
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1316,
+        "y": 140,
+        "z": -1028
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1326,
+        "y": 131,
+        "z": -1009
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1426,
+        "y": 118,
+        "z": -1063
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -10383,
+        "y": 57,
+        "z": 4864
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1419,
+        "y": 98,
+        "z": -1103
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1453,
+        "y": 142,
+        "z": -1053
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1685,
+        "y": 13,
+        "z": -2565
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1761,
+        "y": 15,
+        "z": -2628
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1715,
+        "y": 12,
+        "z": -2639
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1717,
+        "y": 4,
+        "z": -2485
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1709,
+        "y": 3,
+        "z": -2495
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1700,
+        "y": 3,
+        "z": -2489
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1436,
+        "y": 2,
+        "z": -2365
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -641,
+        "y": 46,
+        "z": -1857
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 269,
+        "y": 7,
+        "z": -2472
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 983,
+        "y": 166,
+        "z": -4347
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": 1158,
+        "y": 112,
+        "z": -4316
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1741,
+        "y": 22,
+        "z": -2720
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1740,
+        "y": 18,
+        "z": -2812
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1755,
+        "y": 23,
+        "z": -2822
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1795,
+        "y": 8,
+        "z": -3413
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -11,
+        "y": 36,
+        "z": -1451
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1562,
+        "y": 19,
+        "z": -2269
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1464,
+        "y": 39,
+        "z": -2253
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 617,
+        "y": 58,
+        "z": -5271
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1575,
+        "y": 57,
+        "z": -694
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1581,
+        "y": 58,
+        "z": -763
+      }
+    },
+    {
+      "name": "Loot Chest 4",
+      "color": "#ffffffff",
+      "icon": "chestT4",
+      "visibility": "default",
+      "location": {
+        "x": -1594,
+        "y": 67,
+        "z": -736
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -1036,
+        "y": 125,
+        "z": -1384
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": 1098,
+        "y": 171,
+        "z": -2869
+      }
+    },
+    {
+      "name": "Loot Chest 3",
+      "color": "#ffffffff",
+      "icon": "chestT3",
+      "visibility": "default",
+      "location": {
+        "x": -969,
+        "y": 9,
+        "z": -5469
+      }
+    }
+  ],
+  "mantleShieldTrackerOverlayFeature.mantleShieldTrackerOverlay1.renderOrder": 7,
+  "minimapFeature.coordinatesOverlay.renderOrder": 1,
+  "minimapFeature.minimapOverlay.alwaysRenderRemoteFriendPlayers": true,
+  "minimapFeature.minimapOverlay.alwaysRenderRemoteGuildPlayers": true,
+  "minimapFeature.minimapOverlay.alwaysRenderRemotePartyPlayers": true,
+  "minimapFeature.minimapOverlay.borderType": "wynn",
+  "minimapFeature.minimapOverlay.enabledTemplate": "lt(raid_time; 0)",
+  "minimapFeature.minimapOverlay.hideWhenUnmapped": "minimap",
+  "minimapFeature.minimapOverlay.horizontalAlignmentOverride": "left",
+  "minimapFeature.minimapOverlay.maskType": "circle",
+  "minimapFeature.minimapOverlay.remotePlayersHeadScale": 0.3,
+  "minimapFeature.minimapOverlay.renderOrder": 8,
+  "minimapFeature.minimapOverlay.verticalAlignmentOverride": "top",
+  "minimapFeature.minimapOverlay.zoomLevel": 74.0,
+  "minimapFeature.territoryOverlay1.fitText": true,
+  "minimapFeature.territoryOverlay1.horizontalAlignmentOverride": "right",
+  "minimapFeature.territoryOverlay1.placementLocked": false,
+  "minimapFeature.territoryOverlay1.position": {
+    "verticalOffset": 10.000001,
+    "horizontalOffset": -2.5,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "center",
+    "anchorSection": "topLeft"
+  },
+  "minimapFeature.territoryOverlay1.renderOrder": 9,
+  "minimapFeature.territoryOverlay1.showOwner": "tag",
+  "minimapFeature.territoryOverlay1.size": {
+    "width": 208.0,
+    "height": 40.0
+  },
+  "minimapFeature.territoryOverlay1.verticalAlignmentOverride": "middle",
+  "mountKeybindFeature.mountTraitsOverlay.position": {
+    "verticalOffset": -6.753372,
+    "horizontalOffset": 14.666667,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "left",
+    "anchorSection": "middleLeft"
+  },
+  "mountKeybindFeature.mountTraitsOverlay.renderElement": "playerTabList",
+  "mountKeybindFeature.mountTraitsOverlay.renderOrder": 0,
+  "mountKeybindFeature.mountTraitsOverlay.size": {
+    "width": 15.333334,
+    "height": 64.0
+  },
+  "mountKeybindFeature.timeTrialOverlay.renderOrder": 2,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.disableObjectiveTrackingOnScoreboard": true,
+  "objectivesOverlayFeature.dailyObjectiveOverlay.enabledTemplate": "lt(raid_time; 0)",
+  "objectivesOverlayFeature.dailyObjectiveOverlay.horizontalAlignmentOverride": "left",
+  "objectivesOverlayFeature.dailyObjectiveOverlay.objectivesTexture": "c",
+  "objectivesOverlayFeature.dailyObjectiveOverlay.verticalAlignmentOverride": "bottom",
+  "objectivesOverlayFeature.guildObjectiveOverlay.enabledTemplate": "lt(raid_time; 0)",
+  "objectivesOverlayFeature.guildObjectiveOverlay.horizontalAlignmentOverride": "left",
+  "objectivesOverlayFeature.guildObjectiveOverlay.objectivesTexture": "c",
+  "objectivesOverlayFeature.guildObjectiveOverlay.verticalAlignmentOverride": "bottom",
+  "partyMembersOverlayFeature.partyMembersOverlay.healthTexture": "rune",
+  "partyMembersOverlayFeature.partyMembersOverlay.manaTexture": "aether",
+  "perCharacterGuildContributionFeature.characterContributions": {
+    "9176ae96": 0
+  },
+  "perCharacterGuildContributionFeature.userEnabled": false,
+  "powderSpecialBarOverlayFeature.powderSpecialBarOverlay.renderOrder": 3,
+  "raidProgressFeature.raidProgressOverlay1.backgroundColor": "#0000008f",
+  "raidProgressFeature.raidProgressOverlay1.position": {
+    "verticalOffset": 37.65609,
+    "horizontalOffset": -5.6666718,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "topLeft"
+  },
+  "raidProgressFeature.raidProgressOverlay1.renderElement": "actionBar",
+  "raidProgressFeature.raidProgressOverlay1.renderOrder": -1,
+  "raidProgressFeature.raidProgressOverlay1.size": {
+    "width": 191.66666,
+    "height": 113.39779
+  },
+  "raidProgressFeature.raidProgressOverlay1.textShadow": "outline",
+  "raidProgressFeature.raidProgressOverlay1.userEnabled": false,
+  "scoreboardOverlayFeature.scoreboardOverlay.renderOrder": 4,
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.position": {
+    "verticalOffset": -15.5,
+    "horizontalOffset": -33.5,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomLeft"
+  },
+  "serverUptimeInfoOverlayFeature.serverUptimeInfoOverlay1.renderOrder": 2,
+  "shamanMaskOverlayFeature.shamanMaskOverlay1.renderOrder": 10,
+  "shamanTotemTimerOverlayFeature.shamanTotemTimerOverlay1.position": {
+    "verticalOffset": 5.246628,
+    "horizontalOffset": -5.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "middleRight"
+  },
+  "shamanTotemTimerOverlayFeature.shamanTotemTimerOverlay1.renderOrder": 18,
+  "shamanTotemTimerOverlayFeature.shamanTotemTimerOverlay1.userEnabled": true,
+  "spellCastMessageOverlayFeature.spellCastMessageOverlay.position": {
+    "verticalOffset": 10.649872,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "spellCastMessageOverlayFeature.spellCastMessageOverlay.renderOrder": 5,
+  "spellCastMessageOverlayFeature.spellCastMessageOverlay.size": {
+    "width": 200.0,
+    "height": 78.700386
+  },
+  "spellCastMessageOverlayFeature.spellCastMessageOverlay.verticalAlignmentOverride": "top",
+  "spellCastMessageOverlayFeature.spellInputsOverlay.position": {
+    "verticalOffset": 9.7500305,
+    "horizontalOffset": 0.0,
+    "verticalAlignment": "middle",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "spellCastMessageOverlayFeature.spellInputsOverlay.renderOrder": 6,
+  "spellCastMessageOverlayFeature.spellInputsOverlay.size": {
+    "width": 100.0,
+    "height": 80.50007
+  },
+  "spellCastMessageOverlayFeature.spellInputsOverlay.verticalAlignmentOverride": "top",
+  "statusEffectsOverlayFeature.statusEffectsOverlay.renderOrder": 3,
+  "stopwatchFeature.stopwatchOverlay1.renderOrder": 11,
+  "streamerModeOverlayFeature.streamerModeOverlay1.renderOrder": -1,
+  "territoryAttackTimerOverlayFeature.territoryAttackTimerOverlay.renderOrder": 12,
+  "tokenBarsOverlayFeature.tokenBarsOverlay.renderOrder": 13,
+  "towerEffectOverlayFeature.towerAuraTimerOverlay1.renderOrder": 14,
+  "towerEffectOverlayFeature.towerVolleyTimerOverlay1.renderOrder": 15,
+  "towerStatsFeature.towerStatsOverlay1.renderOrder": 16,
+  "worldWaypointDistanceFeature.bottomBoundingDistance": 96.0,
+  "infoBoxFeature.infoBoxOverlay1.customName": "DPS Indicator",
+  "infoBoxFeature.infoBoxOverlay1.content": "{concat(if_str(mte(adps; 1); if_str(mte(adps; 100000); if_str(mte(adps; 200000); if_str(mte(adps; 300000); if_str(mte(adps; 400000); if_str(mte(adps; 500000); if_str(mte(adps; 700000); if_str(mte(adps; 1000000); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u0026#00F000FF\"; str(round(div(adps; 1000000); 1)); \"m \u0026#00F000FF\u0026lSTELLAR!\"); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u0026b\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\")); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u00264\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\")); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u0026c\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\")); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u00266\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\")); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u0026e\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\")); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u0026a\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\")); if_str(mte(adps; 1000); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u00267\"; str(round(div(adps; 1000); 1)); \"k \u00266☄\"); concat(\"\u00266⁤\u00260\u00266\u00260\u00266\u00260\u00266 \u00267\"; str(int(adps)); \" \u00266☄\"))); \"\"); \"\\n\"; if_str(mte(adavg; 1); if_str(mte(tdmg; 10000000); concat(\"\u0026#066B6AFF⁤\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF \u0026#00F000FF\"; str(round(div(tdmg(10); 1000000); 1)); \"m \u0026e\u0026lULTRAKILL\u0026f\"); if_str(mte(tdmg(10); 1000000); concat(\"\u0026#066B6AFF⁤\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF \u00263\"; str(round(div(tdmg(10); 1000000); 1)); \"m \u0026b★\"); if_str(mte(tdmg(10); 1000); concat(\"\u0026#066B6AFF⁤\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF \u00263\"; str(round(div(tdmg(10); 1000); 1)); \"k \u0026b★\"); concat(\"\u0026#066B6AFF⁤\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF\u0026#FFFFFFFF\u0026#066B6AFF \u00263\"; str(int(tdmg(10))); \" \u0026b★\")))); \"\"))}",
+  "infoBoxFeature.infoBoxOverlay1.fontScale": 0.7,
+  "infoBoxFeature.infoBoxOverlay1.backgroundColor": "#000000a3",
+  "infoBoxFeature.infoBoxOverlay1.position": {
+    "verticalOffset": -5.499939,
+    "horizontalOffset": 25.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomLeft"
+  },
+  "infoBoxFeature.infoBoxOverlay1.size": {
+    "width": 100.0,
+    "height": 36.700306
+  },
+  "infoBoxFeature.infoBoxOverlay1.renderElement": "actionBar",
+  "infoBoxFeature.infoBoxOverlay1.renderOrder": 4,
+  "infoBoxFeature.infoBoxOverlay1.horizontalAlignmentOverride": "center",
+  "infoBoxFeature.infoBoxOverlay1.verticalAlignmentOverride": "middle",
+  "infoBoxFeature.infoBoxOverlay2.customName": "Raid Custom Progress",
+  "infoBoxFeature.infoBoxOverlay2.content": "{if_str(eq_str(current_raid; \"Orphion\u0027s Nexus of Light\"); concat(to_background_text(\"Raid Statistics\"; from_hex(\"#ffffff\"); from_hex(\"#3d348b\"); \"RIBBON\"; \"RIBBON\"); \"\\n\\n\"; to_background_text(\"Room 1\"; from_hex(\"#000000\"); from_hex(\"#70c1b3\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(1)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(1); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Room 2\"; from_hex(\"#000000\"); from_hex(\"#f7b801\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(2)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(2); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Room 3\"; from_hex(\"#000000\"); from_hex(\"#f18701\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(3)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(3); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Boss 1\"; from_hex(\"#ffffff\"); from_hex(\"#ce4257\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(4)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(4); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Boss 2\"; from_hex(\"#ffffff\"); from_hex(\"#8c1c13\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(5)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(5); 1000)); \"\u00267)\"; \"\\n\\n\"; to_background_text(\"Total\"; from_hex(\"#ffffff\"); from_hex(\"#679436\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(current_raid_damage); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(current_raid_time; 1000)); \"\u00267)\"); concat(to_background_text(\"Raid Statistics\"; from_hex(\"#ffffff\"); from_hex(\"#3d348b\"); \"RIBBON\"; \"RIBBON\"); \"\\n\\n\"; to_background_text(\"Room 1\"; from_hex(\"#000000\"); from_hex(\"#70c1b3\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(1)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(1); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Room 2\"; from_hex(\"#000000\"); from_hex(\"#f7b801\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(2)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(2); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Room 3\"; from_hex(\"#000000\"); from_hex(\"#f18701\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(3)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(3); 1000)); \"\u00267)\"; \"\\n\"; to_background_text(\"Boss\"; from_hex(\"#ffffff\"); from_hex(\"#ce4257\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(raid_room_damage(4)); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(raid_room_time(4); 1000)); \"\u00267)\"; \"\\n\\n\"; to_background_text(\"Total\"; from_hex(\"#ffffff\"); from_hex(\"#679436\"); \"FLAG\"; \"FLAG\"); \" \u0026l\"; format(current_raid_damage); \"\u00267 \"; to_fancy_text(\"dmg\"); \"\u00267 (\"; format_duration(divide(current_raid_time; 1000)); \"\u00267)\"))}",
+  "infoBoxFeature.infoBoxOverlay2.enabledTemplate": "not(lt(raid_time; 0))",
+  "infoBoxFeature.infoBoxOverlay2.position": {
+    "verticalOffset": 6.5000153,
+    "horizontalOffset": 17.5,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "left",
+    "anchorSection": "topLeft"
+  },
+  "infoBoxFeature.infoBoxOverlay2.size": {
+    "width": 100.0,
+    "height": 13.000012
+  },
+  "infoBoxFeature.infoBoxOverlay2.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay2.renderElement": "actionBar",
+  "infoBoxFeature.infoBoxOverlay2.renderOrder": -1,
+  "infoBoxFeature.infoBoxOverlay3.customName": "Better DPS indicator",
+  "infoBoxFeature.infoBoxOverlay3.content": "{with_font(concat_st(\r\n  st(from_codepoint(add(7101;\r\n    if(lt(mod(ticks; 200); 50); 0; if(lt(mod(ticks; 200); 175);\r\n      clamp(div(sub(mod(ticks; 200); 50); 2.4); 1; 12);\r\n      sub(12; clamp(div(sub(mod(ticks; 200); 175); 2.4); 1; 12)))); \r\n    mul(13; clamp(int(div(adavg(15); 200000)); 0; 3)))));\r\n  repeat_st(st(from_codepoint(6950)); 2);\r\n  with_color(\r\n    st(from_codepoint(add(7091;\r\n      clamp(int(div(adavg(15); 150000)); 0; 9)\r\n    )));\r\n    wynncraft_shader(\"gradient\")\r\n  );\r\n  st(repeat(from_codepoint(6989); 5));\r\n  with_color(\r\n    st(from_codepoint(add(7051;\r\n      clamp(int(div(adavg(15); 20000)); 0; 39)\r\n    ))); \r\n    wynncraft_shader(if(gte(adavg(15); 820000); \"warp\"; \"none\"))\r\n  );\r\n  st(repeat(\"\\n\"; 2));\r\n  st(repeat(from_codepoint(7035); 4));\r\n  with_atlas_sprite_font(st(\"A\"); \"items\"; \"skins/resistance/syndra_banner\");\r\n  st(\"\\n\");\r\n  \r\n  st(repeat(from_codepoint(7037); 2));\r\n  with_atlas_sprite_font(st(\"A\"); \"items\"; \"skins/character/astal_gauntlet_text\");\r\n  st(\"\\n\");\r\n\r\n  repeat_st(concat_st(\r\n    st(from_codepoint(7040));\r\n    with_atlas_sprite_font(st(\"A\"); \"items\"; \"item/w-9167009971840039152\")\r\n  ); 2);\r\n    st(repeat(\"\\n\"; 3));\r\n  repeat_st(concat_st(\r\n    st(from_codepoint(7040));\r\n    with_atlas_sprite_font(st(\"A\"); \"items\"; \"item/w-9167009971840039152\")\r\n  ); 2);\r\n  st(\"\\n\");\r\n  st(from_codepoint(7044));\r\n  with_color(st(format(adavg(15))); if(gte(adavg(15); 820000); wynncraft_shader(\"rainbow\");\r\n    from_hex(switch(int(div(adavg(15); 100000)); \"#ebe9e9\";\r\n      2; \"#ebe967\"; 3; \"#64c3d3\"; 4; \"#c183c4\"; 5; \"#ea9898\"; 6; \"#ea9898\"; 7; \"#ea9898\"; 8; \"#ea9898\")))\r\n  );\r\n  st(\"\\n\");\r\n  st(from_codepoint(7041));\r\n  repeat_st(concat_st(\r\n    with_atlas_sprite_font(st(\"A\"); \"items\"; \"wynn/spell/meteor_0_a\");\r\n    st(from_codepoint(6995))\r\n    );\r\n    int(sub(\r\n      if(lt(adavg(15); 450000); div(adavg(15); 50000); 10); \r\n      div(adavg(15); 100000)\r\n    ))\r\n  );\r\n  repeat_st(concat_st(\r\n      with_atlas_sprite_font(st(\"A\"); \"items\"; \"wynn/spell/meteor_1_a\");\r\n      st(from_codepoint(6995))\r\n    );\r\n    int(mul(int(div(clamp(sub(adavg(15); 400000); 0; 1000000); 100000)); 2))\r\n  );\r\n  repeat_st(concat_st(\r\n      with_atlas_sprite_font(st(\"A\"); \"items\"; \"wynn/spell/meteor_0_a\");\r\n      st(from_codepoint(6995))\r\n    );\r\n    int(sub(\r\n      if(lt(adavg(15); 450000); div(adavg(15); 50000); 10); \r\n      div(adavg(15); 100000)\r\n    ))\r\n  )\r\n); \"tpack:default\")}",
+  "infoBoxFeature.infoBoxOverlay3.fitText": false,
+  "infoBoxFeature.infoBoxOverlay3.enabledTemplate": "and(lt(seconds_since(last_dam); 5); or(gte(adps; 100000); gte(adavg; 12000)))",
+  "infoBoxFeature.infoBoxOverlay3.position": {
+    "verticalOffset": -1.0,
+    "horizontalOffset": 2.5836792,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "bottomLeft"
+  },
+  "infoBoxFeature.infoBoxOverlay3.size": {
+    "width": 95.58336,
+    "height": 102.25178
+  },
+  "infoBoxFeature.infoBoxOverlay3.renderElement": "hotbar",
+  "infoBoxFeature.infoBoxOverlay3.renderOrder": 2,
+  "infoBoxFeature.infoBoxOverlay3.horizontalAlignmentOverride": "center",
+  "infoBoxFeature.infoBoxOverlay3.verticalAlignmentOverride": "top",
+  "infoBoxFeature.infoBoxOverlay4.customName": "Mount Levels",
+  "infoBoxFeature.infoBoxOverlay4.content": "{concat(if(contains_str(held_item_name;\"Whistle\");concat(to_background_text(\"Mount Stats\";from_hex(\"#de8e9ff\");from_hex(\"#da9444ff\");\"RIBBON\";\"FLAG\");\"\\n\";to_fancy_text(\"Potential: \");to_background_text(str(mnt_potential(\"horse\"));from_hex(\"#da9444ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#4169e1ff\";to_fancy_text(\"SPD: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"speed\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"speed\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"speed\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"speed\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#4682b4ff\";to_fancy_text(\"ACC: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"acceleration\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"acceleration\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"acceleration\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"acceleration\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ffffffff\";to_fancy_text(\"JMP: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"jumpHeight\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"jumpHeight\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"jumpHeight\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"jumpHeight\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#48a860ff\";to_fancy_text(\"ENG: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"energy\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"energy\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"energy\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"energy\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ed2939ff\";to_fancy_text(\"HDL: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"handling\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"handling\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"handling\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"handling\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#d9dadbff\";to_fancy_text(\"TGH: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"toughness\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"toughness\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"toughness\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"toughness\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ff6ec7ff\";to_fancy_text(\"BST: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"boost\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"boost\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"boost\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"boost\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#613613ff\";to_fancy_text(\"TRN: \");if_str(at_cap(cap_mnt_stat(\"horse\";\"training\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"horse\";\"training\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"horse\";\"training\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"horse\";\"training\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\"\");if(contains_str(held_item_name;\"Flute\");concat(to_background_text(\"Mount Stats\";from_hex(\"#de8e9ff\");from_hex(\"#da9444ff\");\"RIBBON\";\"FLAG\");\"\\n\";to_fancy_text(\"Potential: \");to_background_text(str(mnt_potential(\"wyvern\"));from_hex(\"#da9444ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#4169e1ff\";to_fancy_text(\"SPD: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"speed\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"speed\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"speed\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"speed\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#4682b4ff\";to_fancy_text(\"ACC: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"acceleration\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"acceleration\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"acceleration\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"acceleration\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ffffffff\";to_fancy_text(\"ALT: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"altitude\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"altitude\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"altitude\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"altitude\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#48a860ff\";to_fancy_text(\"ENG: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"energy\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"energy\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"energy\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"energy\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ed2939ff\";to_fancy_text(\"HDL: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"handling\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"handling\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"handling\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"handling\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#d9dadbff\";to_fancy_text(\"TGH: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"toughness\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"toughness\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"toughness\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"toughness\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ff6ec7ff\";to_fancy_text(\"BST: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"boost\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"boost\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"boost\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"boost\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#613613ff\";to_fancy_text(\"TRN: \");if_str(at_cap(cap_mnt_stat(\"wyvern\";\"training\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"wyvern\";\"training\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"wyvern\";\"training\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"wyvern\";\"training\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\"\");if(contains_str(held_item_name;\"Ocarina\");concat(to_background_text(\"Mount Stats\";from_hex(\"#de8e9ff\");from_hex(\"#da9444ff\");\"RIBBON\";\"FLAG\");\"\\n\";to_fancy_text(\"Potential: \");to_background_text(str(mnt_potential(\"adasaur\"));from_hex(\"#da9444ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#4169e1ff\";to_fancy_text(\"SPD: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"speed\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"speed\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"speed\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"speed\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#4682b4ff\";to_fancy_text(\"ACC: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"acceleration\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"acceleration\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"acceleration\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"acceleration\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ffffffff\";to_fancy_text(\"JMP: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"jumpHeight\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"jumpHeight\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"jumpHeight\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"jumpHeight\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#48a860ff\";to_fancy_text(\"ENG: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"energy\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"energy\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"energy\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"energy\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ed2939ff\";to_fancy_text(\"HDL: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"handling\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"handling\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"handling\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"handling\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#d9dadbff\";to_fancy_text(\"TGH: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"toughness\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"toughness\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"toughness\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"toughness\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#ff6ec7ff\";to_fancy_text(\"BST: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"boost\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"boost\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"boost\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"boost\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\");\"\\n\u0026#613613ff\";to_fancy_text(\"TRN: \");if_str(at_cap(cap_mnt_stat(\"adasaur\";\"training\"));\"\u0026#562937ff---\";to_background_text(leading_zeros(rem(cap_mnt_stat(\"adasaur\";\"training\"));3);from_hex(\"#562937ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\" \";to_background_text(concat(leading_zeros(curr(cap_mnt_stat(\"adasaur\";\"training\"));3);\"/\";leading_zeros(cap(cap_mnt_stat(\"adasaur\";\"training\"));3));from_hex(\"#0b6623ff\");from_hex(\"#191c27ff\");\"PILL\";\"PILL\"));\"\"))}",
+  "infoBoxFeature.infoBoxOverlay4.fitText": true,
+  "infoBoxFeature.infoBoxOverlay4.position": {
+    "verticalOffset": 10.0,
+    "horizontalOffset": -5.0,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "topRight"
+  },
+  "infoBoxFeature.infoBoxOverlay4.size": {
+    "width": 100.0,
+    "height": 86.74664
+  },
+  "infoBoxFeature.infoBoxOverlay4.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay4.renderOrder": -1,
+  "infoBoxFeature.infoBoxOverlay5.customName": "Lootrun",
+  "infoBoxFeature.infoBoxOverlay5.content": "{if_str(string_equals(lootrun_state; \"NOT_RUNNING\"); \"\"; concat(\r\n\r\n  \"\u0026e\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Yellow\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"YELLOW\"));\r\n  \"\u0026r\";\r\n  if_str(lt(lootrun_beacon_count(\"YELLOW\"); 10); \"  \"; \" \");\r\n\r\n  \" \u00269\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Blue\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"BLUE\"));\r\n  \"\u0026r\";\r\n  if_str(lt(lootrun_beacon_count(\"BLUE\"); 10); \"  \"; \" \");\r\n\r\n  \" \u00265\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Purple\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"PURPLE\"));\r\n  \"\u0026r\";\r\n  if_str(lt(lootrun_beacon_count(\"PURPLE\"); 10); \"  \"; \" \");\r\n\r\n  \" \u0026b\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Aqua\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"AQUA\"));\r\n  \"\u0026r\";\r\n\r\n  \"\\n\u0026a\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Green\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"GREEN\"));\r\n  \"\u0026r\";\r\n  if_str(lt(lootrun_beacon_count(\"GREEN\"); 10); \"  \"; \" \");\r\n\r\n  \" \u0026c\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Red\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  if_str(gte(cap(lootrun_challenges); 100);\r\n    \"\u0026m\";\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"RED\"));\r\n  \"\u0026r\";\r\n  if_str(lt(lootrun_beacon_count(\"RED\"); 10); \"  \"; \" \");\r\n\r\n  \" \u00266\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Orange\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  if_str(\r\n    gte(\r\n      add(3; lootrun_orange_beacon_count);\r\n      6\r\n    );\r\n    \"\u0026m\";\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"ORANGE\"));\r\n  \"\u0026r\";\r\n  if_str(lt(lootrun_beacon_count(\"ORANGE\"); 10); \"  \"; \" \");\r\n\r\n  \" \u0026d\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Pink\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  string(lootrun_beacon_count(\"PINK\"));\r\n  \"\u0026r\";\r\n\r\n  \"\\n\u00268\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Dark Gray\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  if_str(\r\n    or(\r\n      eq_str(lootrun_trial(0); \"Monochromokopia\");\r\n      eq_str(lootrun_trial(1); \"Monochromokopia\")\r\n    );\r\n    if_str(eq(lootrun_beacon_count(\"DARK_GRAY\"); 2);\r\n      \"MAX\";\r\n      concat(string(lootrun_beacon_count(\"DARK_GRAY\")); \"/2\")\r\n    );\r\n    if_str(eq(lootrun_beacon_count(\"DARK_GRAY\"); 1);\r\n      \"MAX\";\r\n      concat(string(lootrun_beacon_count(\"DARK_GRAY\")); \"/1\")\r\n    )\r\n  );\r\n  \"\u0026r\";\r\n\r\n  \" \u0026f\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"White\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  if_str(\r\n    or(\r\n      eq_str(lootrun_trial(0); \"Monochromokopia\");\r\n      eq_str(lootrun_trial(1); \"Monochromokopia\")\r\n    );\r\n    if_str(eq(lootrun_beacon_count(\"WHITE\"); 2);\r\n      \"MAX\";\r\n      concat(string(lootrun_beacon_count(\"WHITE\")); \"/2\")\r\n    );\r\n    if_str(eq(lootrun_beacon_count(\"WHITE\"); 1);\r\n      \"MAX\";\r\n      concat(string(lootrun_beacon_count(\"WHITE\")); \"/1\")\r\n    )\r\n  );\r\n  \"\u0026r\";\r\n\r\n  \"\\n\u00267\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Gray\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  if_str(\r\n    or(\r\n      gt(current(lootrun_challenges); 70);\r\n      eq_str(lootrun_mission(0; false); \"Unknown\")\r\n    );\r\n    \"\u0026m\";\r\n    \"\"\r\n  );\r\n  if_str(\r\n    or(\r\n      eq_str(lootrun_trial(0); \"Monochromokopia\");\r\n      eq_str(lootrun_trial(1); \"Monochromokopia\")\r\n    );\r\n    if_str(eq(lootrun_beacon_count(\"GRAY\"); 4);\r\n      \"MAX\";\r\n      concat(string(lootrun_beacon_count(\"GRAY\")); \"/4\")\r\n    );\r\n    if_str(eq(lootrun_beacon_count(\"GRAY\"); 3);\r\n      \"MAX\";\r\n      concat(string(lootrun_beacon_count(\"GRAY\")); \"/3\")\r\n    )\r\n  );\r\n  \"\u0026r\";\r\n\r\n  \" \u0026#00f010ff\";\r\n  if_str(string_equals(lootrun_last_selected_beacon_color; \"Crimson\");\r\n    if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n    \"\"\r\n  );\r\n  if_str(\r\n    or(\r\n      lt(current(lootrun_challenges); 20);\r\n      gt(current(lootrun_challenges); 70)\r\n    );\r\n    \"\u0026m\";\r\n    \"\"\r\n  );\r\n  if_str(eq(lootrun_beacon_count(\"CRIMSON\"); 2);\r\n    \"MAX\";\r\n    concat(string(lootrun_beacon_count(\"CRIMSON\")); \"/2\")\r\n  );\r\n  \"\u0026r\";\r\n\r\n  \"\\n\u0026#00f000ff\";\r\n  if_str(\r\n    lte(current(lootrun_challenges); 10);\r\n    \"\u0026m\";\r\n    \"\"\r\n  );\r\n  if_str(gt(lootrun_beacon_count(\"RAINBOW\"); 0);\r\n    if_str(gt(lootrun_beacon_count(\"RAINBOW\"); 1);\r\n      concat(\r\n        if_str(string_equals(lootrun_last_selected_beacon_color; \"Rainbow\");\r\n          if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n          \"\"\r\n        );\r\n        string(lootrun_beacon_count(\"RAINBOW\"));\r\n        \" Rainbows\"\r\n      );\r\n      concat(\r\n        \" \";\r\n        if_str(string_equals(lootrun_last_selected_beacon_color; \"Rainbow\");\r\n          if_str(lootrun_last_selected_beacon_vibrant; \"\u0026n\u0026l\"; \"\u0026n\");\r\n          \"\"\r\n        );\r\n        \"Rainbow\"\r\n      )\r\n    );\r\n    \" \u00267Rainbow\"\r\n  );\r\n  \"\u0026r\";\r\n\r\n  \"\\n\\n⌛ \";\r\n  if_str(eq(lootrun_time; 0);\r\n    \"\u00267\";\r\n    if_str(\r\n      or(\r\n        eq_str(lootrun_trial(0); \"Gambling Beast\");\r\n        eq_str(lootrun_trial(1); \"Gambling Beast\")\r\n      );\r\n      if_str(gte(lootrun_time; 1860);\r\n        \"\u00262\u0026l\u0026o\";\r\n        if_str(gte(lootrun_time; 1470);\r\n          \"\u00262\";\r\n          if_str(gte(lootrun_time; 1080);\r\n            \"\u0026a\";\r\n            if_str(gte(lootrun_time; 690);\r\n              \"\u0026e\";\r\n              if_str(gte(lootrun_time; 300);\r\n                \"\u00266\";\r\n                if_str(gte(lootrun_time; 60);\r\n                  \"\u0026c\";\r\n                  if_str(gte(lootrun_time; 30);\r\n                    \"\u00264\";\r\n                    if_str(gte(lootrun_time; 10);\r\n                      if_str(gte(mod(ticks; 40); 20); \"\u00264\"; \"\u0026c\");\r\n                      if_str(gte(lootrun_time; 5);\r\n                        if_str(gte(mod(ticks; 20); 10); \"\u00264\"; \"\u0026c\");\r\n                        if_str(gte(mod(ticks; 10); 5); \"\u00264\"; \"\u0026c\")\r\n                      )\r\n                    )\r\n                  )\r\n                )\r\n              )\r\n            )\r\n          )\r\n        )\r\n      );\r\n      if_str(gte(lootrun_time; 3600);\r\n        \"\u00262\u0026l\u0026o\";\r\n        if_str(gte(lootrun_time; 900);\r\n          \"\u00262\";\r\n          if_str(gte(lootrun_time; 600);\r\n            \"\u0026a\";\r\n            if_str(gte(lootrun_time; 300);\r\n              \"\u0026e\";\r\n              if_str(gte(lootrun_time; 150);\r\n                \"\u00266\";\r\n                if_str(gte(lootrun_time; 60);\r\n                  \"\u0026c\";\r\n                  if_str(gte(lootrun_time; 30);\r\n                    \"\u00264\";\r\n                    if_str(gte(lootrun_time; 10);\r\n                      if_str(gte(mod(ticks; 40); 20); \"\u00264\"; \"\u0026c\");\r\n                      if_str(gte(lootrun_time; 5);\r\n                        if_str(gte(mod(ticks; 20); 10); \"\u00264\"; \"\u0026c\");\r\n                        if_str(gte(mod(ticks; 10); 5); \"\u00264\"; \"\u0026c\")\r\n                      )\r\n                    )\r\n                  )\r\n                )\r\n              )\r\n            )\r\n          )\r\n        )\r\n      )\r\n    )\r\n  );\r\n  if_str(gte(lootrun_time; 3600);\r\n    concat(str(int(div(lootrun_time; 3600))); \":\");\r\n    \"\"\r\n  );\r\n  leading_zeros(int(div(mod(lootrun_time; 3600); 60)); 2); \":\"; leading_zeros(int(mod(lootrun_time; 60)); 2);\r\n  \"\u0026r\";\r\n\r\n  \"\\nᛃ \";\r\n  if_str(eq(remaining(lootrun_challenges); 0);\r\n    \"\u00267\";\r\n    if_str(gte(remaining(lootrun_challenges); 40);\r\n      \"\u00262\u0026l\u0026o\";\r\n      if_str(gte(remaining(lootrun_challenges); 20);\r\n        \"\u00262\";\r\n        if_str(gte(remaining(lootrun_challenges); 10);\r\n          \"\u0026a\";\r\n          if_str(gte(remaining(lootrun_challenges); 5);\r\n            \"\u0026e\";\r\n            if_str(gte(remaining(lootrun_challenges); 2);\r\n              \"\u00266\";\r\n              if_str(gte(mod(ticks; 40); 20); \"\u00264\"; \"\u0026c\")\r\n            )\r\n          )\r\n        )\r\n      )\r\n    ) \r\n  );\r\n  str(current(lootrun_challenges)); \"\u0026r/\";\r\n  if_str(gte(cap(lootrun_challenges); 100);\r\n    concat(\r\n      \"\u0026n100\";\r\n      if_str(gt(cap(lootrun_challenges); 100);\r\n        concat(\"+\u0026r\"; str(int(sub(cap(lootrun_challenges); 100))));\r\n        \"\"\r\n      )\r\n    );\r\n    str(cap(lootrun_challenges))\r\n  );\r\n  \"\u0026r\";\r\n\r\n  \"\\n\u0026c\";\r\n  str(lootrun_red_beacon_challenge_count);\r\n  \" \u00266\";\r\n  str(lootrun_next_orange_expire);\r\n  \" \u0026#00f000ff\";\r\n  str(lootrun_rainbow_beacon_count);\r\n  \"\u0026r left\";\r\n  \"\u0026r\";\r\n\r\n  \"\\n⚑ \u00266\";\r\n  if_str(\r\n    gte(\r\n      add(\r\n        3;\r\n        lootrun_orange_beacon_count;\r\n        if_num(\r\n          or(\r\n            eq_str(lootrun_mission(0; false); \"Safety Seeker\");\r\n            eq_str(lootrun_mission(1; false); \"Safety Seeker\");\r\n            eq_str(lootrun_mission(2; false); \"Safety Seeker\");\r\n            eq_str(lootrun_mission(3; false); \"Safety Seeker\")\r\n          );\r\n          -1;\r\n          0\r\n        )\r\n      );\r\n      6\r\n    );\r\n    \"\u0026n\";\r\n    \"\"\r\n  );\r\n  str(int(\r\n    min(\r\n      add(\r\n        3;\r\n        lootrun_orange_beacon_count;\r\n        if_num(\r\n          or(\r\n            eq_str(lootrun_mission(0; false); \"Safety Seeker\");\r\n            eq_str(lootrun_mission(1; false); \"Safety Seeker\");\r\n            eq_str(lootrun_mission(2; false); \"Safety Seeker\");\r\n            eq_str(lootrun_mission(3; false); \"Safety Seeker\")\r\n          );\r\n          -1;\r\n          0\r\n        )\r\n      );\r\n      6\r\n    )\r\n  ));\r\n  \" \u0026r⌚ \u0026a\";\r\n  str(lootrun_rerolls);\r\n  \" \u0026r🔥 \u0026c\";\r\n  str(lootrun_sacrifices);\r\n  \"\u0026r\"\r\n\r\n))}",
+  "infoBoxFeature.infoBoxOverlay5.position": {
+    "verticalOffset": 0.0,
+    "horizontalOffset": 10.583542,
+    "verticalAlignment": "top",
+    "horizontalAlignment": "left",
+    "anchorSection": "bottomLeft"
+  },
+  "infoBoxFeature.infoBoxOverlay5.userEnabled": false,
+  "infoBoxFeature.infoBoxOverlay5.renderOrder": -1,
+  "infoBoxFeature.infoBoxOverlay6.customName": "Spell Keybind Info",
+  "infoBoxFeature.infoBoxOverlay6.content": "{if_str(string_equals(class; \"Mage\");  \"\u0026d\u0026lHEAL     \u0026b\u0026lTELE     \u0026c\u0026lMETEOR     \u00269\u0026lICE\";  if_str(string_equals(class; \"Archer\");    \"\u0026c\u0026lBOMB     \u0026b\u0026lESCAPE     \u0026e\u0026lSTORM     \u0026a\u0026lSHIELD\";    if_str(string_equals(class; \"Warrior\");      \"\u0026c\u0026lBASH     \u0026b\u0026lCHARGE     \u0026e\u0026lUPPERCUT     \u0026d\u0026lSCREAM\";      if_str(string_equals(class; \"Assassin\");        \"\u0026d\u0026lSPIN     \u0026b\u0026lDASH     \u0026c\u0026lMULTIHIT     \u00268\u0026lSMOKE\";        if_str(string_equals(class; \"Shaman\");          \"\u00262\u0026lTOTEM    \u0026b\u0026lHAUL     \u0026d\u0026lAURA      \u0026a\u0026lUPROOT\";          \"\u00267\u0026lSPELL 1  SPELL 2  SPELL 3   SPELL 4\"        )      )    )  ))}\\n\u0026e\u0026lQ         E         R         T",
+  "infoBoxFeature.infoBoxOverlay6.textShadow": "outline",
+  "infoBoxFeature.infoBoxOverlay6.fontScale": 0.8,
+  "infoBoxFeature.infoBoxOverlay6.fitText": false,
+  "infoBoxFeature.infoBoxOverlay6.enabledTemplate": "and(lt(adps; 300000); or(not(lt(adps; 1)); lt(seconds_since(last_dam); 15)))",
+  "infoBoxFeature.infoBoxOverlay6.position": {
+    "verticalOffset": -4.305676,
+    "horizontalOffset": 0.5,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "center",
+    "anchorSection": "bottomMiddle"
+  },
+  "infoBoxFeature.infoBoxOverlay6.size": {
+    "width": 100.0,
+    "height": 58.70037
+  },
+  "infoBoxFeature.infoBoxOverlay6.userEnabled": true,
+  "infoBoxFeature.infoBoxOverlay6.renderElement": "actionBar",
+  "infoBoxFeature.infoBoxOverlay6.renderOrder": 8,
+  "infoBoxFeature.infoBoxOverlay6.verticalAlignmentOverride": "top",
+  "infoBoxFeature.infoBoxOverlay7.content": "{concat_st(\n    styled_text(\n        to_background_text(\n            \"MOB\";\n            from_hex(\"#000000\");\n            from_hex(\"#ff9100\");\n            \"PILL\";\n            \"PILL\"\n        )\n    );\n\n    styled_text(\" \");\n\n    styled_text(mob_totem_owner(closest_mob_totem_number()));\n\n    styled_text(\" \");\n\n    with_color(\n        styled_text(\n            concat(\n                str(\n                    int(\n                        div(\n                            mob_totem_seconds_left(closest_mob_totem_number());\n                            60\n                        )\n                    )\n                );\n                \":\";\n                leading_zeros(\n                    int(\n                        mod(\n                            mob_totem_seconds_left(closest_mob_totem_number());\n                            60\n                        )\n                    );\n                    2\n                )\n            )\n        );\n\n        if_color(\n            gt(\n                mob_totem_seconds_left(closest_mob_totem_number());\n                150\n            );\n            from_hex(\"#55FF55\");\n\n            if_color(\n                gt(\n                    mob_totem_seconds_left(closest_mob_totem_number());\n                    60\n                );\n                from_hex(\"#FFFF55\");\n\n                if_color(\n                    gt(\n                        mob_totem_seconds_left(closest_mob_totem_number());\n                        15\n                    );\n                    from_hex(\"#FFAA00\");\n                    from_hex(\"#FF5555\")\n                )\n            )\n        )\n    );\n\n    styled_text(\" \");\n\n    with_color(\n        styled_text(\n            concat(\n                \"(\";\n                str(int(mob_totem_distance(closest_mob_totem_number())));\n                \"m)\"\n            )\n        );\n        from_hex(\"#AAAAAA\")\n    )\n)}",
+  "infoBoxFeature.infoBoxOverlay7.enabledTemplate": "gt(mob_totem_count(); 0)",
+  "infoBoxFeature.infoBoxOverlay7.position": {
+    "verticalOffset": -5.0,
+    "horizontalOffset": 27.750397,
+    "verticalAlignment": "bottom",
+    "horizontalAlignment": "right",
+    "anchorSection": "topLeft"
+  },
+  "infoBoxFeature.infoBoxOverlay7.renderOrder": 17,
+  "wynntils.upfixers": [
+    "custom_poi_visibility",
+    "customCommandKeybindSlashStart",
+    "gameBarOverlayMove",
+    "enumNaming",
+    "customPoiIconEnumBug",
+    "questBookToContentRenamedConfigs",
+    "mapToMainMapRenamedConfigs",
+    "overlayRestructuring",
+    "overlayConfigsIntegration",
+    "customBankQuickJumps",
+    "customBankQuickJumpsBankName",
+    "npcDialoguesRenamed",
+    "npcDialoguesOverlayConfigsMoved",
+    "towerAuraVignetteName",
+    "towerAuraVignetteAndOverlayMovedToCommonFeature",
+    "combatXpGainToXpGain",
+    "professionBadgesToLeaderboardBadges",
+    "tradeMarketAutoOpenChatToTradeMarketQuickSearch",
+    "sacredSurgeToHolyPower",
+    "universalBarOverlayColorToColorTemplate",
+    "wynntilsContentBookReplaceToShiftBehaviour",
+    "durabilityArcToDurabilityOverlay",
+    "mobTotemTimerOverlayFeatureToBonusTotemTimerOverlayFeature",
+    "itemHighlightFeatureCosmeticToStore",
+    "hideDamageLabelsToHideLabels",
+    "mythicFoundToValuableFound",
+    "mythicBlockerToChestBlocker",
+    "maxItensityToMaxIntensity",
+    "showAdditonalTextAboveToShowAdditionalTextAbove",
+    "contentTrackerTextOverlay",
+    "horseMountFeatureToMountKeybindFeature",
+    "chatRedirectHorseToMount",
+    "itemStatInfoConfigRename",
+    "telemetryFeatureToWynntilsTelemetryFeature",
+    "coordinateOverlayToCoordinatesOverlay",
+    "skillPointLoadoutsToBuildLoadouts",
+    "abilityCooldownRedirectToFeature",
+    "itemStatInfoRollStyle",
+    "mountEnergyToMountTraitsOverlay"
+  ],
+  "overlayGroups": {
+    "infoBoxFeature.groupedOverlay.infoBoxOverlays.ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "customBarsOverlayFeature.groupedOverlay.customUniversalBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customHealthBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customManaBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customExperienceBarOverlays.ids": [],
+    "customBarsOverlayFeature.groupedOverlay.customBubbleBarOverlays.ids": []
+  }
+}

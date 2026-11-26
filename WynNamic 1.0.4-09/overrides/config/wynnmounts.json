@@ -1,0 +1,15 @@
+{
+  "highlightHex": "#32C86A",
+  "showTrainingPath": true,
+  "followMinecraftGuiScale": true,
+  "showWelcomePaper": true,
+  "useKibbles": false,
+  "useHeartyI": true,
+  "useHeartyII": true,
+  "useHeartyIII": true,
+  "focusedStatsByMountType": {
+    "WYVERN": [],
+    "HORSE": [],
+    "ADASAUR": []
+  }
+}
