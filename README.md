@@ -96,9 +96,10 @@ Built and tuned on modest laptop hardware to prove Wynncraft can run smoothly wi
 
 ---
 
-### ⟡ Repository Structure & License
+### ⟡ Modpack Structure & License
 
 ```text
+LICENSE # CC BY-NC-ND 4.0 terms  
+WunNamic 1.x.x-xx
 ├── overrides/            # Custom FancyMenu layouts, UI assets & tuned mod configs
-├── modrinth.index.json   # Modrinth pack manifest & dependency hashes
-└── LICENSE               # CC BY-NC-ND 4.0 terms
+└── modrinth.index.json   # Modrinth pack manifest & dependency hashes
